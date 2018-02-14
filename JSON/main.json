@@ -1,0 +1,44 @@
+{
+    "inventory":[ 
+        {
+        "name": "Masks",
+        "image": "bwamask5.jpeg",
+        "page": "mask.html"
+        },
+        {
+        "name": "Fabrics",
+        "image": "carpets.jpg",
+        "page": "fabric.html"
+        }, 
+        {
+        "name": "Lamps",
+        "image": "zulupink2.jpeg",
+        "page": "lamps.html"
+        },
+        {
+        "name": "Art",
+        "image": "art.jpg",
+        "page": "art.html"
+        },
+        {
+        "name": "Furniture",
+        "image": "furniture.jpg",
+        "page": "furniture.html"
+        },
+        {
+        "name": "Sea",
+        "image": "shipswheel2.jpeg",
+        "page": "sea.html"
+        },
+        {
+        "name": "Decor",
+        "image": "pendestool.jpeg",
+        "page": "decorations.html"
+        },
+        {
+        "name": "Beaded",
+        "image": "mickey3.jpeg",
+        "page": "beaded.html"
+        }
+    ]
+}

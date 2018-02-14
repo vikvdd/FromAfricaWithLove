@@ -1,0 +1,108 @@
+<a class="inv-tile-cont" href="mask.html">
+                    <div>
+                        <img class="inv-tile-img" src="Images/Inventory/rastamask.jpeg" alt="rasta mask">
+                        <span class="inv-titles">Masks</span>
+                    </div>
+                </a>
+                <div class="inv-tile-cont">
+                    <a href="cushions.html">
+                        <img class="inv-tile-img" src="Images/Inventory/cushion.png" alt="">
+                        <span class="inv-titles">Cushions</span>
+                    </a>
+                </div>
+                <div class="inv-tile-cont">
+                    <a href="fabric.html">
+                        <img class="inv-tile-img" src="Images/Inventory/carpet.png" alt="">
+                        <span class="inv-titles">Fabric</span>
+                    </a>
+                </div>
+                
+                
+                
+/////////////////////////////////////////////
+
+OLD PAGESTYLES CSS
+
+.main-bg-overlay{
+        position: relative;
+        width: 70%;
+        height: auto;
+        min-height: 800px;
+        margin: 0 auto;
+        background: rgba(0,0,0,0.8);
+
+        text-align: center;
+    }
+
+    #inv-header{
+        color: white;
+        font-size: 2em;
+        padding-top: 10px;
+        }
+
+    #inv-tiles{
+        display: inline-block;
+    }
+
+    .inv-tile-cont{
+        position: relative;
+        vertical-align: top; 
+        display: inline-block;
+        text-align: center;
+        margin: 20px;
+        height: 250px;
+        width: 200px;
+        background: rgba(15,15,2,0.7);
+        border: 1px solid #212121;
+        z-index: 101;
+        overflow-x: hidden;
+    }
+
+    .inv-tiles-cont:hover{
+        cursor: pointer;
+    }
+
+    .inv-tile-img{
+        display: inline-block;
+        width: 100%;
+        height: auto;
+    }
+
+    .inv-titles{
+        font-family: 'Architects Daughter', cursive;
+        color: white;
+        font-size: 1.5em;
+    }
+
+     #home-button{
+        position: absolute;
+        width: 100%;
+        display: block;
+        text-align: center;
+        bottom: 0px;
+    }
+
+    #home-button img{
+        height: 20px;
+        padding: 10px;
+    }
+
+    #home-button img:hover{
+        background: #262626;
+    }
+    
+    
+    //////////////////////////////
+    
+    OLD PAGE HTML INV
+    
+     <section id="main-page">
+        <div class="main-bg-overlay">
+            <div id="inv-tiles">
+                <div class="loader"></div>
+            </div>
+            <a id="home-button" href="Index.html">
+                <img src="Images/home-white.png" alt="home-button">
+            </a>
+        </div>
+    </section>

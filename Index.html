@@ -1,0 +1,98 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>From Africa With Love</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/MainStyleSheet.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arvo|Francois+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans|Quicksand" rel="stylesheet">
+    <link rel="shortcut icon" href="Images/FAWLIcon.png">
+</head>
+
+<body>
+    <header>
+        <div id="head-container">
+            <img id="head-title" src="Images/FAWLTitle.png" alt="From Africa With Love Title">
+            <div id="top-header">
+                <h2 id="main-h2">Quality African Art | Furniture | Decorations</h2>
+            </div>
+            <div id="contact-cont">
+                <div id="contact-info">
+                    <img src="Images/call.png" alt="Contact Info" class="contact-call">
+                    <div id="contact-top">
+                        <h3 id="contact-title"><strong>Contact</strong></h3>
+                    </div>
+                    <img src="Images/mail.png" alt="Contact Info" class="contact-mail">
+                </div>
+                <div id="contact">
+                    <div id="contact-tiles-cont">
+                        <div class="contact-tiles">
+                            <img src="Images/person.png" alt="Contact Person">
+                            <span class="contact-detail">Ellen Nagtzaam</span>
+                        </div>
+                        <hr>
+                        <div class="contact-tiles">
+                            <img src="Images/mail-white.png" alt="Contact Email">
+                            <span class="contact-detail">ellennagtzaam@gmail.com</span>
+                        </div>
+                        <hr>
+                        <div class="contact-tiles">
+                            <img src="Images/call-white.png" alt="Contact Number">
+                            <span class="contact-detail">+31 613987387</span>
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+            <div id="arrow-cont">
+                <a href="Index.html#main-page" rel="next"><img id="down-arrow" src="Images/downarrowborder.png" class="animation-target" alt="downwards arrow"></a>
+            </div>
+        </div>
+    </header>
+    <section id="main-page">
+        <div id="inv-header-cont">
+            <div id="inv-header-sect">
+                <div id="inv-title-left">
+                    <img src="Images/FAWLTitle2.png" alt="Site Title">
+                </div>
+                <div id="inv-title-cen">
+                    <h2 id="inv-header"><strong>Products</strong></h2>
+                    <hr>
+                    <h3 id="inv-header-2"><em>Categories</em></h3>
+                </div>
+            </div>
+        </div>
+        <div id="inv-cont">
+            <div id="inv-left"></div>
+            <div id="main-bg-overlay">
+                <div id="inv-select-form">
+                    <select id="inv-select-input" name="categories">
+                        <option value="">Select a category..</option> 
+                    </select>
+                    <button id="inv-select-button" type="button" value="submit" name="Category Select">Go</button>
+                </div>
+                <hr>
+                <div id="inv-flex-cont">
+					<ul id="inv-tiles">
+						<div class="loader"></div>
+					</ul>
+                </div>
+                <a id="home-button" href="Index.html" rel="prev">
+                    <img src="Images/home-white.png" alt="home-button">
+                </a>
+            </div>
+            <div id="inv-right"></div>
+        </div>
+    </section>
+
+    <script type="text/javascript" src="JS/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="JS/main.js"></script>
+</body>
+
+</html>

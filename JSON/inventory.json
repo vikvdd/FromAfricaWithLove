@@ -1,0 +1,1280 @@
+{
+  "inventory": {
+    "masks": [
+      {
+        "name": "Dan Mask",
+        "price": 90,
+        "image": "img_1611_med_hr.jpeg",
+        "description": "Dan mask with cowrie shells Ivory Coast - West Africa"
+      },
+      {
+        "name": "Dan Mask",
+        "price": 90,
+        "image": "img_1606_med_hr.jpeg",
+        "description": "Dan mask with cowrie shells Ivory Coast - West Africa"
+      },
+      {
+        "name": "Dan Mask",
+        "price": 90,
+        "image": "danmask.jpeg",
+        "description": "Dan mask with cowrie shells Ivory Coast - West Africa"
+      },
+      {
+        "name": "Dan Mask",
+        "price": 90,
+        "image": "danmask2.jpeg",
+        "description": "Dan mask with cowrie shells Ivory Coast - West Africa"
+      },
+      {
+        "name": "BWA Mask",
+        "price": 150,
+        "image": "bwamask4.jpeg",
+        "description": "BWA mask from the BWA people - Burkino Faso"
+      },
+      {
+        "name": "Punu Mask",
+        "price": 75,
+        "image": "punumask1.jpeg",
+        "description": "Punu mask from the Punu tribe - Gabon\n"
+      },
+      {
+        "name": "Punu Mask",
+        "price": 75,
+        "image": "punumask2.jpeg",
+        "description": "Punu mask from the Punu tribe - Gabon\n"
+      },
+      {
+        "name": "Punu Mask",
+        "price": 75,
+        "image": "punumask4.jpeg",
+        "description": "Punu mask from the Punu tribe - Gabon\n"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 60,
+        "image": "baulemasksmall.jpeg",
+        "description": "Baule mask small from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 250,
+        "image": "baulemasklarge.jpeg",
+        "description": "Baule mask large from the Baule tribe - Ivory Coast\n2 available (price for single item)"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 90,
+        "image": "baulemask1.jpeg",
+        "description": "Baule mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 200,
+        "image": "baulemask2.jpeg",
+        "description": "Antique Baule mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 200,
+        "image": "baulelarge.jpeg",
+        "description": "Antique Baule mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Mask",
+        "price": 120,
+        "image": "baulemask3.jpeg",
+        "description": "Baule mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baga Mask",
+        "price": 275,
+        "image": "bagamask.jpeg",
+        "description": "Baga masks from the Baga tribe - Guinea & Guinea bissau\n2 available (price for single item)"
+      },
+      {
+        "name": "Baga Masks",
+        "price": 150,
+        "image": "bagamask2.jpeg",
+        "description": "Baga masks from the Baga tribe - Guinea & Guinea bissau\n2 available"
+      },
+      {
+        "name": "Grebo War Mask",
+        "price": 110,
+        "image": "grebomask.jpeg",
+        "description": "Grebo war mask from the Grebo tribe - Ivory Coast"
+      },
+      {
+        "name": "Rasta Mask",
+        "price": 80,
+        "image": "rastamask1.jpeg",
+        "description": "Rasta mask from the Rasta tribe - Ethiopia"
+      },
+      {
+        "name": "Kwele Mask",
+        "price": 60,
+        "image": "kwelemask.jpeg",
+        "description": "Kwele mask from the Kwele tribe - Cameroon"
+      },
+      {
+        "name": "Guro Mask",
+        "price": 50,
+        "image": "guromask1.jpeg",
+        "description": "Guro mask from the Guro tribe - Ivory Coast"
+      },
+      {
+        "name": "Guro Mask",
+        "price": 50,
+        "image": "guromask2.jpeg",
+        "description": "Guro mask from the Guro tribe - Ivory Coast"
+      },
+      {
+        "name": "Guro Mask",
+        "price": 50,
+        "image": "guromask3.jpeg",
+        "description": "Guro mask from the Guro tribe - Ivory Coast"
+      },
+      {
+        "name": "Guro Mask",
+        "price": 50,
+        "image": "guromask4.jpeg",
+        "description": "Guro mask from the Guro tribe - Ivory Coast"
+      },
+      {
+        "name": "Guro Mask",
+        "price": 50,
+        "image": "guromask5.jpeg",
+        "description": "Guro mask from the Guro tribe - Ivory Coast"
+      },
+      {
+        "name": "Kuba Mask",
+        "price": 60,
+        "image": "kubamask.jpeg",
+        "description": "Kuba mask from the Kuba tribe - Zaïre"
+      },
+      {
+        "name": "Baule Bonu Amwin Mask",
+        "price": 125,
+        "image": "baulebonu1.jpeg",
+        "description": "Baule Bonu Amwin mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Bonu Amwin Mask",
+        "price": 125,
+        "image": "baulebonu2.jpeg",
+        "description": "Baule Bonu Amwin mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Bonu Amwin Mask",
+        "price": 125,
+        "image": "baulebonu3.jpeg",
+        "description": "Baule Bonu Amwin mask from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Kifewebe Mask",
+        "price": 60,
+        "image": "kifewebe1.jpeg",
+        "description": "Kifewebe mask from the Songye tribe - Congo"
+      },
+      {
+        "name": "Kifewebe Mask",
+        "price": 40,
+        "image": "kifewebe2.jpeg",
+        "description": "Kifewebe mask from the Songye tribe - Congo"
+      },
+      {
+        "name": "Fang Mask",
+        "price": 40,
+        "image": "fang1.jpeg",
+        "description": "Fang mask from the Fang tribe - Gabon"
+      },
+      {
+        "name": "Fang Mask",
+        "price": 40,
+        "image": "fang2.jpeg",
+        "description": "Fang mask from the Fang tribe - Gabon"
+      },
+      {
+        "name": "Fang Mask",
+        "price": 60,
+        "image": "fang3.jpeg",
+        "description": "Fang mask from the Fang tribe - Gabon"
+      },
+      {
+        "name": "Fang Mask",
+        "price": 80,
+        "image": "fang4.jpeg",
+        "description": "Fang mask from the Fang tribe - Gabon"
+      },
+      {
+        "name": "Dan Bassa Mask",
+        "price": 55,
+        "image": "danbassa.jpeg",
+        "description": "Dan Bassa mask from the Dan Bassa tribe - Liberia"
+      },
+      {
+        "name": "Ibibio Mask",
+        "price": 60,
+        "image": "ibibio4.jpeg",
+        "description": "Ibibio mask from the Ibibio tribe - Nigeria"
+      },
+      {
+        "name": "Ibibio Mask",
+        "price": 60,
+        "image": "ibibio5.jpeg",
+        "description": "Ibibio mask from the Ibibio tribe - Nigeria"
+      },
+      {
+        "name": "Dan Mask",
+        "price": 60,
+        "image": "danmask3.jpeg",
+        "description": "Dan Mask from the Dan tribe - Ivory Coast"
+      },
+      {
+        "name": "Venetian Mask",
+        "price": 160,
+        "image": "venicemask3.jpeg",
+        "description": "Venetian Mask - Italia"
+      },
+      {
+        "name": "Venetian Mask",
+        "price": 160,
+        "image": "venicemask4.jpeg",
+        "description": "Venetian Mask - Italia"
+      }
+    ],
+    "fabrics": [
+      {
+        "name": "Kuba Cloth",
+        "price": 350,
+        "image": "kubacloth1.jpeg",
+        "description": "Kuba Cloth from the Kuba tribe - Zaïre\nMeasurements: 280 x 65 cm"
+      },
+      {
+        "name": "Kuba Cloth",
+        "price": 350,
+        "image": "kubacloth2.jpeg",
+        "description": "Kuba Cloth from the Kuba tribe - Zaïre\nMeasurements: 265 x 75 cm"
+      },
+      {
+        "name": "Kuba Cloth",
+        "price": 295,
+        "image": "kubacloth3.jpeg",
+        "description": "Kuba Cloth from the Kuba tribe - Zaïre\nMeasurements: 215 x 60 cm"
+      },
+      {
+        "name": "Kuba Cloth",
+        "price": 395,
+        "image": "kubacloth4.jpeg",
+        "description": "Kuba Cloth from the Kuba tribe - Zaïre\nMeasurements: 575 x 80 cm"
+      },
+      {
+        "name": "Kuba Cloth",
+        "price": 395,
+        "image": "kubacloth5.jpeg",
+        "description": "Kuba Cloth from the Kuba tribe - Zaïre\nMeasurements: 500 x 80 cm"
+      },
+      {
+        "name": "Kuba Cloth cushion",
+        "price": 75,
+        "image": "zaïre1.jpeg",
+        "description": "cushion made from Kuba cloth - Zaïre"
+      },
+      {
+        "name": "Kuba Cloth cushion",
+        "price": 60,
+        "image": "zaïre2.jpeg",
+        "description": "cushion made from Kuba cloth - Zaïre"
+      },
+      {
+        "name": "Kuba Cloth cushion",
+        "price": 60,
+        "image": "zaïre3.jpeg",
+        "description": "cushion made from Kuba cloth - Zaïre"
+      },
+      {
+        "name": "Kuba Cloth cushion",
+        "price": 60,
+        "image": "zaïre4.jpeg",
+        "description": "cushion made from Kuba cloth - Zaïre"
+      }
+    ],
+    "lamps": [
+      {
+        "name": "Zulu Hat Wall Lamp",
+        "price": 95,
+        "image": "zulupink.jpeg",
+        "description": "Zulu hat wall lamp - South Africa"
+      },
+      {
+        "name": "Zulu Hat Wall Lamp",
+        "price": 95,
+        "image": "zulublue.jpeg",
+        "description": "Zulu hat wall lamp - South Africa"
+      },
+      {
+        "name": "Dolphine Lamp",
+        "price": 110,
+        "image": "dolphine1.jpeg",
+        "description": "Beaded wire dolphine hang lamp - South Africa"
+      },
+      {
+        "name": "Dolphine Lamp",
+        "price": 110,
+        "image": "dolphine2.jpeg",
+        "description": "Beaded wire dolphine hang lamp - South Africa"
+      },
+      {
+        "name": "Beaded Wire Lamp",
+        "price": 55,
+        "image": "beadedlamp1.jpeg",
+        "description": "Beaded wire standing lamp - South Africa"
+      },
+      {
+        "name": "Beaded Wire Lamp",
+        "price": 55,
+        "image": "beadedlamp2.jpeg",
+        "description": "Beaded wire standing lamp - South Africa"
+      },
+      {
+        "name": "Calabash Lamp",
+        "price": 135,
+        "image": "calabashlamp.jpeg",
+        "description": "Calabash lamp stand with a snake print shade"
+      },
+      {
+        "name": "Turkana/Tuareg Lamp",
+        "price": 125,
+        "image": "tuareg.jpeg",
+        "description": "Turkana lamp stand with a Tuareg hat shade"
+      },
+      {
+        "name": "Leave Lamp",
+        "price": 150,
+        "image": "leavelamp.jpeg",
+        "description": "Rusted leave lamp"
+      },
+      {
+        "name": "Guinea Fowl Lamp",
+        "price": 75,
+        "image": "guineafowl.jpeg",
+        "description": "Guinea fowl metal standing lamp - South Africa"
+      }
+    ],
+    "art": [
+      {
+        "name": "Kuba Cloth",
+        "price": 250,
+        "image": "framedkubacloth.jpeg",
+        "description": "Framed piece of Kuba Cloth - Zaïre\nMeasurements:"
+      },
+      {
+        "name": "South African Safari 1",
+        "price": 325,
+        "image": "safari1.jpeg",
+        "description": "'South African safari plate 1' (1998) Michele d'Argent"
+      },
+      {
+        "name": "South African Safari 2",
+        "price": 325,
+        "image": "safari2.jpeg",
+        "description": "'South African safari plate 2' (1998) Michele d'Argent"
+      },
+      {
+        "name": "South African Safari 5",
+        "price": 325,
+        "image": "safari5.jpeg",
+        "description": "'South African safari plate 5' (1998) Michele d'Argent"
+      },
+      {
+        "name": "Dance",
+        "price": 295,
+        "image": "dance.jpeg",
+        "description": "'Dance'(2003) B. Mandindi - South Africa\n"
+      },
+      {
+        "name": "Elephant",
+        "price": 125,
+        "image": "elephant.jpeg",
+        "description": "'Elephant' banana leave art"
+      },
+      {
+        "name": "Buffalo",
+        "price": 125,
+        "image": "buffalo.jpeg",
+        "description": "'Buffalo' banana leave art"
+      },
+      {
+        "name": "Leopards",
+        "price": 125,
+        "image": "leopards.jpeg",
+        "description": "'Leopards' banana leave art"
+      },
+      {
+        "name": "Elephant & Rhino",
+        "price": 125,
+        "image": "elephantandrhino.jpeg",
+        "description": "'Elephant & Rhino' banana leave art"
+      },
+      {
+        "name": "Giraffes",
+        "price": 45,
+        "image": "giraffes.jpeg",
+        "description": "'Giraffes' straw & banana leave art"
+      },
+      {
+        "name": "African drummer",
+        "price": 45,
+        "image": "africandrummer.jpeg",
+        "description": "'African Drummer' straw & banana leave art"
+      },
+      {
+        "name": "African village",
+        "price": 45,
+        "image": "africanvillage.jpeg",
+        "description": "'African Village' straw & banana leave art"
+      },
+      {
+        "name": "Animal World",
+        "price": 295,
+        "image": "animalworld.jpeg",
+        "description": "'Animal World' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Café Passée",
+        "price": 295,
+        "image": "cafepassee.jpeg",
+        "description": "'Café Passée' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Dancing Ladies",
+        "price": 295,
+        "image": "dancingladies.jpeg",
+        "description": "'Dancing Ladies' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Two Ladies",
+        "price": 350,
+        "image": "twoladies.jpeg",
+        "description": "'Two Ladies' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Three Ladies",
+        "price": 350,
+        "image": "threeladies.jpeg",
+        "description": "'Three Ladies' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Four Ladies",
+        "price": 350,
+        "image": "fourladies.jpeg",
+        "description": "'Four Ladies' Hans Gooskens - The Netherlands"
+      },
+      {
+        "name": "Sea Flag",
+        "price": 195,
+        "image": "seaflag.jpeg",
+        "description": "Framed sea flag"
+      }
+    ],
+    "furniture": [
+      {
+        "name": "Riempies Bank",
+        "price": 650,
+        "image": "riempiesbank.jpeg",
+        "description": "Teak Riempies bank - South Africa"
+      },
+      {
+        "name": "Gateleg Table",
+        "price": 600,
+        "image": "gatelegtable.jpeg",
+        "description": "Antique Gateleg drop ear table - South Africa"
+      },
+      {
+        "name": "Box",
+        "price": 200,
+        "image": "box.jpeg",
+        "description": "Big old wooden box"
+      },
+      {
+        "name": "Boat Cupboard",
+        "price": 350,
+        "image": "boatcupboard.jpeg",
+        "description": "Cupboard made from an old boat"
+      },
+      {
+        "name": "Boat Bank",
+        "price": 300,
+        "image": "boatbank.jpeg",
+        "description": "Bank with storage made from an old boat "
+      },
+      {
+        "name": "Rudder Side Table",
+        "price": 125,
+        "image": "rudder.jpeg",
+        "description": "Rudder side table made from an old boat"
+      },
+      {
+        "name": "African Side Table",
+        "price": 125,
+        "image": "sidetable.jpeg",
+        "description": "African side table with cowrie shells"
+      },
+      {
+        "name": "Toy Box",
+        "price": 60,
+        "image": "toybox.jpeg",
+        "description": "Toy Box - South Africa"
+      },
+      {
+        "name": "Stool/Side Table",
+        "price": 60,
+        "image": "yellowstool.jpeg",
+        "description": "Stool or side table - South Africa"
+      },
+      {
+        "name": "Stool/Side Table",
+        "price": 60,
+        "image": "redstool.jpeg",
+        "description": "Stool or side table - South Africa"
+      },
+      {
+        "name": "Skateboard Chair",
+        "price": 125,
+        "image": "skatechair.jpeg",
+        "description": "Chair made from skateboards "
+      }
+    ],
+    "maritime": [
+      {
+        "name": "Ship Wheel",
+        "price": 175,
+        "image": "shipwheel.jpeg",
+        "description": "Decorative ship wheel"
+      },
+      {
+        "name": "Life Belt",
+        "price": 60,
+        "image": "lifebelt.jpeg",
+        "description": "Original life belt"
+      },
+      {
+        "name": "Ship Clock and Barometer",
+        "price": 95,
+        "image": "shipclock.jpeg",
+        "description": "Nauticalia ship clock with barometer"
+      },
+      {
+        "name": "Ships Throttle",
+        "price": 125,
+        "image": "throttle.jpeg",
+        "description": "Old ships throttle"
+      },
+      {
+        "name": "Captain's Bells",
+        "price": 150,
+        "image": "captainsbells.jpeg",
+        "description": "Original captain's bells"
+      },
+      {
+        "name": "Buoy",
+        "price": 30,
+        "image": "buoy1.jpeg",
+        "description": "Buoy found on the beach in South Africa"
+      },
+      {
+        "name": "Buoy",
+        "price": 45,
+        "image": "buoy2.jpeg",
+        "description": "Buoy "
+      },
+      {
+        "name": "Ship Light",
+        "price": 45,
+        "image": "shiplight.jpeg",
+        "description": "Old ship light "
+      },
+      {
+        "name": "Ship Bell",
+        "price": 30,
+        "image": "shipbell.jpeg",
+        "description": "Ship bell"
+      },
+      {
+        "name": "Ship Flags",
+        "price": 175,
+        "image": "shipflags.jpeg",
+        "description": "Twenty different ship flags with bag"
+      },
+      {
+        "name": "Lighthouse",
+        "price": 40,
+        "image": "lighthouse1.jpeg",
+        "description": "Metal lighthouse"
+      },
+      {
+        "name": "Lighthouse with light",
+        "price": 40,
+        "image": "lighthouse2.jpeg",
+        "description": "Wooden lighthouse with candlelight"
+      },
+      {
+        "name": "Lighthouse ",
+        "price": 30,
+        "image": "lighthouse3.jpeg",
+        "description": "Wooden lighthouse "
+      },
+      {
+        "name": "Lighthouse",
+        "price": 40,
+        "image": "lesperdrix.jpeg",
+        "description": "Lesperdrix lighthouse"
+      },
+      {
+        "name": "Lighthouse",
+        "price": 35,
+        "image": "lighthouse4.jpeg",
+        "description": "Steel lighthouse"
+      },
+      {
+        "name": "Lighthouse",
+        "price": 40,
+        "image": "lighthouse5.jpeg",
+        "description": "Saint Mathieu lighthouse"
+      },
+      {
+        "name": "Ship",
+        "price": 135,
+        "image": "ship1.jpeg",
+        "description": "Ship Mauritius"
+      },
+      {
+        "name": "Ship",
+        "price": 80,
+        "image": "ship2.jpeg",
+        "description": "Ship "
+      },
+      {
+        "name": "Ship in a bottle",
+        "price": 120,
+        "image": "shipinbottle.jpeg",
+        "description": "Ship in a bottle\nHandmade in South Africa "
+      },
+      {
+        "name": "Sailing Boat",
+        "price": 35,
+        "image": "sailingboat1.jpeg",
+        "description": "Wooden sailing boat"
+      },
+      {
+        "name": "Sailing Boat",
+        "price": 25,
+        "image": "sailingboat2.jpeg",
+        "description": "Sailing boat"
+      },
+      {
+        "name": "Boat",
+        "price": 35,
+        "image": "boat.jpeg",
+        "description": "Wooden boat"
+      },
+      {
+        "name": "Sailing Boat",
+        "price": 35,
+        "image": "sailingboat3.jpeg",
+        "description": "Sailing boat"
+      },
+      {
+        "name": "Sailing Boat",
+        "price": 35,
+        "image": "sailingboat4.jpeg",
+        "description": "Sailing boat on stand"
+      },
+      {
+        "name": "Fishing Boat",
+        "price": 35,
+        "image": "fishingboat.jpeg",
+        "description": "Fishing Boat on stand"
+      },
+      {
+        "name": "Pirate Ship",
+        "price": 25,
+        "image": "pirateship.jpeg",
+        "description": "Pirate Ship "
+      },
+      {
+        "name": "Boat",
+        "price": 15,
+        "image": "boat2.jpeg",
+        "description": "Wooden boat on stand "
+      },
+      {
+        "name": "Sailing Boat",
+        "price": 35,
+        "image": "sailingboat5.jpeg",
+        "description": "Sailing boat on stand "
+      },
+      {
+        "name": "Captain Haddock",
+        "price": 125,
+        "image": "captainhaddock.jpeg",
+        "description": "Captain Haddock made from wood\nHeight: 110 cm "
+      },
+      {
+        "name": "Ship's Crew Figures",
+        "price": 20,
+        "image": "shipcrew.jpeg",
+        "description": "Wooden ship's crew figureswood\n5 available (price for single item) "
+      },
+      {
+        "name": "Captain's Figures",
+        "price": 10,
+        "image": "captains.jpeg",
+        "description": "Captain's figures\n5 available (price for single item)"
+      },
+      {
+        "name": "Fish on a robe",
+        "price": 25,
+        "image": "fishonarobe.jpeg",
+        "description": "Wooden fish on a robe"
+      },
+      {
+        "name": "'Gone Fishing'",
+        "price": 25,
+        "image": "gonefishing.jpeg",
+        "description": "Wooden sign 'Gone fishing'"
+      },
+      {
+        "name": "'Gone to the Beach'",
+        "price": 25,
+        "image": "gonetothebeach.jpeg",
+        "description": "Wooden sign 'Gone to the beach'"
+      },
+      {
+        "name": "'Gone Swimming'",
+        "price": 15,
+        "image": "goneswimming.jpeg",
+        "description": "Wooden sign 'Gone swimming'"
+      }
+    ],
+    "decorations": [
+      {
+        "name": "Baule Pot",
+        "price": 250,
+        "image": "baulepot1.jpeg",
+        "description": "Wood carved Baule pot from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Baule Pot",
+        "price": 225,
+        "image": "baulepot2.jpeg",
+        "description": "Wood carved Baule pot from the Baule tribe - Ivory Coast"
+      },
+      {
+        "name": "Vase",
+        "price": 275,
+        "image": "vase.jpeg",
+        "description": "'Pregnant Lady' by Nienke van der Meulen - Dutch/South African artist"
+      },
+      {
+        "name": "Dan Pot",
+        "price": 150,
+        "image": "danpot.jpeg",
+        "description": "Wood carved Dan pot with 4 faces from the Dan tribe - Ivory Coast"
+      },
+      {
+        "name": "Honey Pot",
+        "price": 65,
+        "image": "honeypot.jpeg",
+        "description": "African honey pot wood carved and covered with leather"
+      },
+      {
+        "name": "Food Container ",
+        "price": 60,
+        "image": "foodcontainer.jpeg",
+        "description": "Old African wood carved food container"
+      },
+      {
+        "name": "Masaai Milk Container ",
+        "price": 80,
+        "image": "masaaimilk1.jpeg",
+        "description": "Maasaai beaded milk container from the Masaai people - Kenya"
+      },
+      {
+        "name": "Masaai Milk Container ",
+        "price": 80,
+        "image": "masaaimilk2.jpeg",
+        "description": "Maasaai beaded milk container from the Masaai people - Kenya"
+      },
+      {
+        "name": "Masaai food Container ",
+        "price": 80,
+        "image": "masaaifoodcontainer.jpeg",
+        "description": "Maasaai food container from the Masaai people - Kenya"
+      },
+      {
+        "name": "Turkana Milk Container ",
+        "price": 80,
+        "image": "turkanamilk1.jpeg",
+        "description": "Turkana milk container from the Turkana tribe - Kenya"
+      },
+      {
+        "name": "Turkana Milk Container ",
+        "price": 80,
+        "image": "turkanamilk2.jpeg",
+        "description": "Turkana milk container from the Turkana tribe - Kenya"
+      },
+      {
+        "name": "Turkana Milk Container ",
+        "price": 70,
+        "image": "turkanamilk3.jpeg",
+        "description": "Turkana milk container from the Turkana tribe - Kenya"
+      },
+      {
+        "name": "Turkana Milk/Water Container ",
+        "price": 50,
+        "image": "calabash1.jpeg",
+        "description": "Turkana milk/water container from the Turkana tribe - Kenya"
+      },
+      {
+        "name": "Turkana Milk/Water Container ",
+        "price": 50,
+        "image": "calabash2.jpeg",
+        "description": "Turkana milk/water container from the Turkana tribe - Kenya"
+      },
+      {
+        "name": "Elephant Container ",
+        "price": 55,
+        "image": "elephantcontainer.jpeg",
+        "description": "Wood carved elephant container - South Africa"
+      },
+      {
+        "name": "Roost Man ",
+        "price": 175,
+        "image": "roostman.jpeg",
+        "description": "Roost sculpture made from trash - South Africa"
+      },
+      {
+        "name": "senufo bird ",
+        "price": 60,
+        "image": "senufobird1.jpeg",
+        "description": "Senufo Bird from the Senufo tribe - Ivory Coast & Mali"
+      },
+      {
+        "name": "senufo bird ",
+        "price": 70,
+        "image": "senufobird2.jpeg",
+        "description": "Senufo Bird from the Senufo tribe - Ivory Coast & Mali"
+      },
+      {
+        "name": "Baga Nimba Sculptures",
+        "price": 125,
+        "image": "baganimba.jpeg",
+        "description": "Baga Nimba shoulder masks from the Baga tribe - Guinea & Guinea Bissau (price for single item)"
+      },
+      {
+        "name": "Animal with child",
+        "price": 175,
+        "image": "animalwithchild.jpeg",
+        "description": "Animal with child wooden sculpture"
+      },
+      {
+        "name": "Seven faces",
+        "price": 185,
+        "image": "sevenfaces.jpeg",
+        "description": "Seven faces wooden sculpture"
+      },
+      {
+        "name": "'Tradition Day'",
+        "price": 195,
+        "image": "traditionday.jpeg",
+        "description": "'Tradition Day' by S. Tsumba - Zimbabwe"
+      },
+      {
+        "name": "Guinea Fowls",
+        "price": 30,
+        "image": "guineafowls.jpeg",
+        "description": "Metal guinea fowls - South Africa\n3 available (price for single item)"
+      },
+      {
+        "name": "Weaving Loom",
+        "price": 185,
+        "image": "weavingloom.jpeg",
+        "description": "African tribal weaving loom - Cameroon"
+      },
+      {
+        "name": "Kapsiki Armlet",
+        "price": 185,
+        "image": "kapsikiarmlet.jpeg",
+        "description": "Kapsiki armlet from the Kapsiki tribe - Cameroon"
+      },
+      {
+        "name": "Pende Stool",
+        "price": 150,
+        "image": "stool1.jpeg",
+        "description": "Western Pende Caryatid stool from the Pende tribe - Congo"
+      },
+      {
+        "name": "Pende Stool",
+        "price": 150,
+        "image": "stool2.jpeg",
+        "description": "Western Pende Caryatid stool from the Pende tribe - Congo"
+      },
+      {
+        "name": "Djembe Drum",
+        "price": 200,
+        "image": "djembedrum.jpeg",
+        "description": "Djembe Drum - Ghana"
+      },
+      {
+        "name": "Tonga Drum",
+        "price": 275,
+        "image": "tongadrum1.jpeg",
+        "description": "Tonga drum from the Tonga tribe - Zambia"
+      },
+      {
+        "name": "Tonga Drum",
+        "price": 325,
+        "image": "tongadrum2.jpeg",
+        "description": "Tonga drum from the Tonga tribe - Zambia"
+      },
+      {
+        "name": "Zulu Hat",
+        "price": 125,
+        "image": "zuluhat.jpeg",
+        "description": "Zulu traditional wedding hat from the Zulu people - South Africa\n4 available (price for single item)"
+      },
+      {
+        "name": "Tuareg Hat",
+        "price": 150,
+        "image": "tuareghat1.jpeg",
+        "description": "Tuareg hat large from the Tuareg tribe - Mali"
+      },
+      {
+        "name": "Tuareg Hat ",
+        "price": 95,
+        "image": "tuareghat2.jpeg",
+        "description": "Tuareg hat small from the Tuareg tribe - Mali"
+      },
+      {
+        "name": "Zebra Hat ",
+        "price": 125,
+        "image": "zebrahat.jpeg",
+        "description": "Zebra (Burchell) hat - South Africa"
+      },
+      {
+        "name": "Hat Stand ",
+        "price": 95,
+        "image": "hatstand.jpeg",
+        "description": "Old hat stand - Spain"
+      },
+      {
+        "name": "Baskets",
+        "price": 75,
+        "image": "baskets.jpeg",
+        "description": "Rattan baskets - Zimbabwe (price for single item)"
+      },
+      {
+        "name": "Feather Sticks",
+        "price": 15,
+        "image": "feathersticks.jpeg",
+        "description": "Feather Sticks - South Africa\n6 available (price for single item)"
+      },
+      {
+        "name": "Dogon Door",
+        "price": 140,
+        "image": "dogondoor.jpeg",
+        "description": "Dogon door from the Dogon tribe - Mali "
+      },
+      {
+        "name": "Giraffe",
+        "price": 75,
+        "image": "giraffelarge.jpeg",
+        "description": "Wood carved Giraffe - Malawi"
+      },
+      {
+        "name": "Shoe Molds",
+        "price": 35,
+        "image": "shoemolds.jpeg",
+        "description": "Old wooden shoe molds"
+      },
+      {
+        "name": "Clock",
+        "price": 55,
+        "image": "clock.jpeg",
+        "description": "Boxer tobacco clock on batteries - South Africa"
+      },
+      {
+        "name": "Bowls",
+        "price": 15,
+        "image": "bowls.jpeg",
+        "description": "Boxer tobacco from paper maché - South Africa\n2 small available (price for single item)"
+      },
+      {
+        "name": "Bowls",
+        "price": 25,
+        "image": "bowls.jpeg",
+        "description": "Boxer tobacco from paper maché - South Africa\n1 large available (price for single item)"
+      },
+      {
+        "name": "Spoons",
+        "price": 55,
+        "image": "Spoons.jpeg",
+        "description": "Kitchen spoons made from telephone cables - South Africa\n3 available"
+      },
+      {
+        "name": "Motorbike",
+        "price": 15,
+        "image": "motorbike.jpeg",
+        "description": "Motorbike made from a Sinas can - South Africa"
+      },
+      {
+        "name": "Copper Kitchen Tools",
+        "price": 295,
+        "image": "copperkitchentools.jpeg",
+        "description": "Old copper kitchen tools\n8 pieces (price for entire set)"
+      },
+      {
+        "name": "Serving Plate",
+        "price": 60,
+        "image": "servingplate.jpeg",
+        "description": "Large zebra serving plate - South Africa"
+      },
+      {
+        "name": "Penguin Candle Holders",
+        "price": 20,
+        "image": "candleholders5.jpeg",
+        "description": "Metal penguin candle holder - South Africa (price for single item, 30 euros for pair)"
+      },
+      {
+        "name": "Insect Candle Holders",
+        "price": 25,
+        "image": "candleholders1.jpeg",
+        "description": "Metal insect candle holder - South Africa (price for single item, 45 euros for pair)"
+      },
+      {
+        "name": "Sun Candle Holders",
+        "price": 15,
+        "image": "candleholders3.jpeg",
+        "description": "Metal sun candle holder - South Africa (price for single item, 25 euros for pair)"
+      },
+      {
+        "name": "Flower Candle Holders",
+        "price": 15,
+        "image": "candleholders4.jpeg",
+        "description": "Metal flower candle holder - South Africa (price for single item, 25 euros for pair)"
+      },
+      {
+        "name": "Swazi Man Candle Holder",
+        "price": 45,
+        "image": "candleholder1.jpeg",
+        "description": "Metal Swazi Man candle holder small - Swaziland"
+      },
+      {
+        "name": "Swazi Man Candle Holder",
+        "price": 85,
+        "image": "candleholder2.jpeg",
+        "description": "Metal Swazi Man candle holder large - Swaziland"
+      },
+      {
+        "name": "Tea light Holder",
+        "price": 20,
+        "image": "tealightholder.jpeg",
+        "description": "Wood carved tea light holder - South Africa"
+      },
+      {
+        "name": "Hat stand",
+        "price": 75,
+        "image": "hatstand2.jpeg",
+        "description": "'Dancing people' hat stand - South Africa"
+      },
+      {
+        "name": "Mirror",
+        "price": 295,
+        "image": "mirror1.jpeg",
+        "description": "'Animals & people' mirror - South Africa"
+      },
+      {
+        "name": "Mirror",
+        "price": 295,
+        "image": "mirror2.jpeg",
+        "description": "Metal 'Spider' mirror with candle light holders - South Africa"
+      }
+    ],
+    "beaded art": [
+      {
+        "name": "Mickey Mouse",
+        "price": 50,
+        "image": "mickeymouse2.jpeg",
+        "description": "Beaded Mickey Mouse - South Africa"
+      },
+      {
+        "name": "Fish",
+        "price": 15,
+        "image": "fish1.jpeg",
+        "description": "Beaded fish - South Africa"
+      },
+      {
+        "name": "Fish",
+        "price": 15,
+        "image": "fish2.jpeg",
+        "description": "Beaded fish - South Africa"
+      },
+      {
+        "name": "Fish",
+        "price": 10,
+        "image": "fish3.jpeg",
+        "description": "Beaded fish - South Africa"
+      },
+      {
+        "name": "Fish",
+        "price": 15,
+        "image": "fish4.jpeg",
+        "description": "Beaded fish - South Africa"
+      },
+      {
+        "name": "Dolphine",
+        "price": 15,
+        "image": "dolphine3.jpeg",
+        "description": "Beaded dolphine - South Africa"
+      },
+      {
+        "name": "Shark",
+        "price": 35,
+        "image": "shark1.jpeg",
+        "description": "Beaded shark - South Africa"
+      },
+      {
+        "name": "Shark",
+        "price": 35,
+        "image": "shark2.jpeg",
+        "description": "Beaded shark - South Africa"
+      },
+      {
+        "name": "Lizard",
+        "price": 20,
+        "image": "lizard1.jpeg",
+        "description": "Large beaded lizard - South Africa"
+      },
+      {
+        "name": "Lizard",
+        "price": 20,
+        "image": "lizard2.jpeg",
+        "description": "Large beaded lizard - South Africa"
+      },
+      {
+        "name": "Lizard",
+        "price": 20,
+        "image": "lizard3.jpeg",
+        "description": "Large beaded lizard - South Africa"
+      },
+      {
+        "name": "Lizard",
+        "price": 20,
+        "image": "lizard4.jpeg",
+        "description": "Large beaded lizard - South Africa"
+      },
+      {
+        "name": "Lizard",
+        "price": 20,
+        "image": "lizard5.jpeg",
+        "description": "Large beaded lizard - South Africa"
+      },
+      {
+        "name": "Lizards",
+        "price": 10,
+        "image": "lizards.jpeg",
+        "description": "Small beaded lizards - South Africa\n7 available (price for single item)"
+      },
+      {
+        "name": "Crocodiles",
+        "price": 10,
+        "image": "crocodiles.jpeg",
+        "description": "Small beaded crocodiles - South Africa\n2 available (price for single item)"
+      },
+      {
+        "name": "Radio",
+        "price": 45,
+        "image": "radio.jpeg",
+        "description": "Beaded radio working on batteries - South Africa"
+      },
+      {
+        "name": "Helicopter",
+        "price": 35,
+        "image": "helicopter.jpeg",
+        "description": "Beaded helicopter - South Africa"
+      },
+      {
+        "name": "Airplane",
+        "price": 20,
+        "image": "airplane1.jpeg",
+        "description": "Beaded airplane - South Africa"
+      },
+      {
+        "name": "Airplane",
+        "price": 20,
+        "image": "airplane2.jpeg",
+        "description": "Beaded airplane - South Africa"
+      },
+      {
+        "name": "Sun",
+        "price": 20,
+        "image": "sun.jpeg",
+        "description": "Beaded sun - South Africa"
+      },
+      {
+        "name": "Tree",
+        "price": 20,
+        "image": "tree.jpeg",
+        "description": "Beaded tree - South Africa"
+      },
+      {
+        "name": "Fruitbowl",
+        "price": 35,
+        "image": "fruitbowl.jpeg",
+        "description": "Beaded fruitbowl - South Africa"
+      },
+      {
+        "name": "Photo Frame",
+        "price": 25,
+        "image": "photoframe1.jpeg",
+        "description": "Wired photo frame - South Africa"
+      },
+      {
+        "name": "Photo Frame",
+        "price": 25,
+        "image": "photoframe1.jpeg",
+        "description": "Wired photo frame - South Africa"
+      },
+      {
+        "name": "Lamp Shades",
+        "price": 15,
+        "image": "lampshades.jpeg",
+        "description": "Beaded lamp shades - South Africa (price for single item)"
+      },
+      {
+        "name": "Ndebele dolls",
+        "price": 35,
+        "image": "ndebeledolls1.jpeg",
+        "description": "Ndebele dolls small from the Ndebele tribe - South Africa\n3 available (price for single item)"
+      },
+      {
+        "name": "Ndebele lucky dolls",
+        "price": 15,
+        "image": "ndebeledolls2.jpeg",
+        "description": "Ndebele lucky dolls from the Ndebele tribe - South Africa\n3 available (price for single item)"
+      },
+      {
+        "name": "Fish Soap Dish",
+        "price": 25,
+        "image": "soapdish1.jpeg",
+        "description": "Beaded soap dish made from telephone cable - South Africa (price for single item)"
+      },
+      {
+        "name": "Giraffe Soap Dish",
+        "price": 25,
+        "image": "soapdish2.jpeg",
+        "description": "Beaded soap dish made from telephone cable - South Africa (price for single item)"
+      }
+    ]
+  }
+}
